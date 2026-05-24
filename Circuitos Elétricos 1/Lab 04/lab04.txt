@@ -1,0 +1,6 @@
+Montagem de um circuito somador inversor utilizando um Aplificador Operacional (Op-Amp) no Tinkercad. O objetivo foi testar como o componente consegue somar múltiplas tensões de entradas simultâneas e amplificar o resultado invertendo a polaridade (sinal negativo).
+
+O Op-Amp fez a alimentação simétrica utilizando duas fontes ajustadas para 60,0V;
+Configuração de três sinais de tensão de entrada independentes usando fontes menores: 1,50V, 2,00V e 2,00V.
+Resistores conectando as três tensões e a entrada inversora do componente, fechando a malha de realimentação.
+Voltímetro para medir a tensão, que resultou em -55,0V. Ele somou as entradas (1,5 + 2,0 + 2,0 = 5,5) e aplicou o ganho da amplificação de 10 vezes, invertendo o sinal no final.
