@@ -1,0 +1,4 @@
+Nesta prática fizemos a montagem da Ponte de Wheatstone, e o objetivo principal foi analisar a diferença de potencial entre dois pontos paralelos, verificando seu balanceamento.
+
+Fonte de tensão alimentando continuamente com 18V;
+A diferença de potencial resultou em 3,67mV, um valor muito próximo de 0V, indicando o nível de balanceamento da ponte de resistores.
