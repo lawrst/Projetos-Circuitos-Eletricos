@@ -1,0 +1,5 @@
+Nesta prática, pegamos o diagrama de um circuito elétrico misto (com resistores em série e paralelo) e fizemos a montagem prática simulada na protoboard usando o Tinkercad. O objetivo foi testar se os cálculos teóricos batem com a montagem física.
+
+A fonte de tensão alimentou o circuito continuamente com 24V;
+O amperímetro mediu a corrente total do circuito como 1A, e a divisão de corrente nos nós com 220mA;
+Os voltímetros mediram 23,2V e 21,0V nas quedas de tensão.
