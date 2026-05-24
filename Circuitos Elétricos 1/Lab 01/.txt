@@ -1,0 +1,1 @@
+Neste laboratório, montamos 4 circuitos para entender na prática o comportamento da energia. Começamos a utilizar componentes básicos como resistores, fontes de tensão e fontes de corrente. A ideia principal do projeto foi usar o multímetro para medir as tensões e correntes em diferentes pontos e analisar os resultados.
